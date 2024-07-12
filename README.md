@@ -36,5 +36,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, please contact [your-chandru80815@example.com](mailto:chandru80815@example.com).
+For any inquiries, please contact [chandru80815@example.com](mailto:chandru80815@example.com).
 
